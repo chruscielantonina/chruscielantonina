@@ -6,7 +6,7 @@ I'm looking for my first role in IT, ideally in software development, backend, o
 
 ---
 
-## 💡 About Me
+### 💡 About Me
 
 - ⚙️ **Backend Enthusiast:** I started with university projects in C++ at the very beginning of my studies and quickly realized I enjoy working on the backend. Since then I've moved on to Java and Spring Boot, and now I'm learning Python.
 - ☁️ **Cloud Explorer:** I'm getting into Microsoft Azure. After completing a 40-hour course, I've started preparing for the AZ-900 certification.
@@ -14,7 +14,7 @@ I'm looking for my first role in IT, ideally in software development, backend, o
 
 ---
 
-## 🛠️ Tech Focus & Skills
+### 🛠️ Tech Focus & Skills
 
 My main focus is **backend development**, built on solid foundations in **Java** and **databases**, with **Python** as my newest addition.
 
